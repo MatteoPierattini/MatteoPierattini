@@ -1,2 +1,2 @@
 ## Hi!
-I'm Matteo, a Computer Science student at Politecnico di Milano!
+I'm Matteo, a Computer Science Engineering student at Politecnico di Milano!
